@@ -5,7 +5,7 @@ The recommendation engine personalizes user experiences by analyzing demographic
 Important Points:
 
 - Recommendation engines use collaborative filtering (comparing user behavior) and content-based filtering (recommending similar products) to generate personalized recommendations.
-- The project employs the Zayler 7B LLM from Meta's Fine-tuned Large Language Model (FLLM) to enhance recommendation algorithms.
+- The project employs the Zephyr 7B beta LLM from Meta's Fine-tuned Large Language Model (FLLM) to enhance recommendation algorithms.
 - The project demonstrates how to generate synthetic data using Faker library, preprocess data, and store it in a Vector database using Hugging Face embedding models.
 - The Rag-based QA pipeline generates responses in text format, providing recommendations based on input customer data.
 - The recommendation engine analyzes customer attributes (e.g., income level, debt-to-income ratio) to suggest suitable financial products.
